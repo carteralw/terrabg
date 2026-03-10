@@ -201,3 +201,6 @@ terraform show plan-with-failover.tfplan
 # Apply whichever plan you want
 terraform apply plan-with-failover.tfplan
 ```
+
+module reused
+<img width="772" height="439" alt="Screenshot 2026-03-10 at 10 01 24 AM" src="https://github.com/user-attachments/assets/9094706c-f298-479b-b4f3-76ce6a50beeb" />
